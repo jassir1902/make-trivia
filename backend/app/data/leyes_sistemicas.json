@@ -1,0 +1,618 @@
+[
+  {
+    "id": "q_law1_concepto",
+    "law_number": 1,
+    "question_type": "concepto",
+    "text": "¿Qué afirma la primera ley del pensamiento sistémico sobre el origen de nuestros problemas actuales?",
+    "options": [
+      "Son causados por el enemigo externo.",
+      "Provienen de las soluciones que dimos en el pasado a otros problemas.",
+      "Surgen por falta de información en el sistema.",
+      "Son producto de la optimización local."
+    ],
+    "correct_index": 1,
+    "explanation": "Las causas de nuestros problemas provienen de las soluciones que dimos en el pasado a otros problemas."
+  },
+  {
+    "id": "q_law1_aplicacion",
+    "law_number": 1,
+    "question_type": "aplicacion",
+    "text": "Si el gobierno lanza grandes promociones en ventas para salvar un trimestre, pero al siguiente trimestre las ventas caen aún más, es un ejemplo de:",
+    "options": [
+      "La ilusión de hacerse cargo.",
+      "La conducta mejora antes de empeorar.",
+      "Los problemas de hoy derivan de las 'soluciones' de ayer.",
+      "El camino fácil lleva al mismo lugar."
+    ],
+    "correct_index": 2,
+    "explanation": "Las soluciones desplazan los problemas de un lado a otro del sistema, y los efectos no se ven reflejados inmediatamente."
+  },
+  {
+    "id": "q_law1_analisis",
+    "law_number": 1,
+    "question_type": "analisis",
+    "text": "¿Por qué quienes resolvieron el 'primer problema' rara vez se dan cuenta de que crearon el problema actual?",
+    "options": [
+      "Porque los nuevos problemas se desplazan a otra parte del sistema o en el tiempo.",
+      "Porque las organizaciones desaprenden.",
+      "Porque se niegan a aceptar la culpa.",
+      "Porque las partes están desconectadas."
+    ],
+    "correct_index": 0,
+    "explanation": "Esos nuevos problemas no son observados por quienes resolvieron el primer problema porque las soluciones desplazan los problemas a otro lado del sistema."
+  },
+  {
+    "id": "q_law1_metafora",
+    "law_number": 1,
+    "question_type": "metafora",
+    "text": "¿Qué acción metafórica describe mejor la primera ley del pensamiento sistémico?",
+    "options": [
+      "Hervir una rana lentamente.",
+      "Buscar llaves bajo un farol.",
+      "Desplazar un problema de un lado a otro del sistema.",
+      "Dividir un elefante por la mitad."
+    ],
+    "correct_index": 2,
+    "explanation": "La ley establece que las soluciones simplemente desplazan los problemas de un lado a otro del sistema."
+  },
+  {
+    "id": "q_law2_concepto",
+    "law_number": 2,
+    "question_type": "concepto",
+    "text": "¿Cómo se denomina el fenómeno donde el sistema se opone a nuestras intervenciones presionando de vuelta?",
+    "options": [
+      "Resistencia pasiva.",
+      "Realimentación compensadora.",
+      "Bucle de refuerzo.",
+      "Optimización local."
+    ],
+    "correct_index": 1,
+    "explanation": "La segunda ley (Cuanto más se presiona, más presiona el sistema) se fundamenta en el principio de la realimentación compensadora."
+  },
+  {
+    "id": "q_law2_aplicacion",
+    "law_number": 2,
+    "question_type": "aplicacion",
+    "text": "Una empresa busca aumentar ventas incrementando su personal comercial, pero su producción es limitada. Si aplican la segunda ley, ¿qué deberían hacer?",
+    "options": [
+      "Contratar aún más vendedores.",
+      "Buscar un nuevo mercado.",
+      "No presionar el elemento reforzador, sino intervenir los elementos limitadores.",
+      "Bajar los precios."
+    ],
+    "correct_index": 2,
+    "explanation": "Si lo que se busca es compensar el sistema, lo ideal es eliminar los elementos limitadores (producción) en lugar de presionar los reforzadores (ventas)."
+  },
+  {
+    "id": "q_law2_analisis",
+    "law_number": 2,
+    "question_type": "analisis",
+    "text": "¿Cuál es el error fundamental al aplicar presión continua sobre un sistema complejo para mejorarlo?",
+    "options": [
+      "Que se gasta demasiado presupuesto.",
+      "Que se enfoca la presión en elements reforzadores en lugar de eliminar elementos limitadores.",
+      "Que genera la ilusión de hacerse cargo.",
+      "Que las causas y efectos están próximos."
+    ],
+    "correct_index": 1,
+    "explanation": "El error es enfocar la presión en elementos reforzadores del sistema; lo ideal es eliminar los elementos limitadores."
+  },
+  {
+    "id": "q_law2_metafora",
+    "law_number": 2,
+    "question_type": "metafora",
+    "text": "¿Qué personaje literario es usado para ilustrar el peligro de simplemente 'esforzarse más' contra la presión del sistema?",
+    "options": [
+      "El elefante fragmentado.",
+      "La rana hervida.",
+      "El caballo Boxer de Rebelión en la granja.",
+      "El borracho bajo el farol."
+    ],
+    "correct_index": 2,
+    "explanation": "La segunda ley cita a La Rebelión en la granja de George Orwell y la frase del caballo Boxer: 'Trabajaré con mayor empeño'."
+  },
+  {
+    "id": "q_law3_concepto",
+    "law_number": 3,
+    "question_type": "concepto",
+    "text": "¿Qué característica de los sistemas complejos explica por qué las soluciones rápidas parecen funcionar al principio antes de fallar?",
+    "options": [
+      "La división del elefante.",
+      "Que existe una pausa entre el beneficio del corto plazo y los perjuicios a largo plazo.",
+      "El desplazamiento de la carga.",
+      "La falta de apalancamiento."
+    ],
+    "correct_index": 1,
+    "explanation": "La tercera ley ocurre porque los sistemas tienen bucles que operan a diferentes velocidades, existiendo una pausa entre el beneficio a corto plazo y el perjuicio a largo plazo."
+  },
+  {
+    "id": "q_law3_aplicacion",
+    "law_number": 3,
+    "question_type": "aplicacion",
+    "text": "Una fábrica contrata personal temporal y aumenta la producción hoy, pero meses después sufre por la erosión de su cultura organizacional. Esto demuestra que:",
+    "options": [
+      "El enemigo es externo.",
+      "La conducta mejora antes de empeorar.",
+      "La causa y efecto están próximos.",
+      "Lo más rápido es lo más lento."
+    ],
+    "correct_index": 1,
+    "explanation": "La dependencia del personal temporal erosiona la cultura a largo plazo, demostrando que la producción aumenta (mejora) antes de que la situación original se deteriore (empeore)."
+  },
+  {
+    "id": "q_law3_analisis",
+    "law_number": 3,
+    "question_type": "analisis",
+    "text": "¿Qué efecto psicológico tiene dentro de la organización el éxito inicial de una solución rápida?",
+    "options": [
+      "Genera una sensación de éxito inicial que desincentiva buscar soluciones más profundas.",
+      "Fomenta el aprendizaje en conjunto.",
+      "Crea la ilusión de aprender con la experiencia.",
+      "Elimina la culpa."
+    ],
+    "correct_index": 0,
+    "explanation": "El resultado de las soluciones rápidas es una sensación de éxito inicial que desincentiva la búsqueda de soluciones más profundas."
+  },
+  {
+    "id": "q_law3_metafora",
+    "law_number": 3,
+    "question_type": "metafora",
+    "text": "¿A qué se asemeja una solución rápida según la tercera ley del pensamiento sistémico?",
+    "options": [
+      "A un apéndice de orientación.",
+      "A un paliativo que oculta el problema temporalmente hasta que éste crece.",
+      "A una realimentación compensadora.",
+      "A una rana en agua tibia."
+    ],
+    "correct_index": 1,
+    "explanation": "Las acciones rápidas producen resultados esperados a corto plazo, pero en realidad son solamente paliativos que ocultan el problema por un tiempo."
+  },
+  {
+    "id": "q_law4_concepto",
+    "law_number": 4,
+    "question_type": "concepto",
+    "text": "¿Qué sucede al aplicar soluciones conocidas y de bajo esfuerzo cognitivo a sistemas complejos?",
+    "options": [
+      "Optimizan el sistema completo.",
+      "Rara vez rompen los patrones que generan el problema y suelen reforzarlos.",
+      "Reducen la realimentación compensadora.",
+      "Eliminan los elementos limitadores."
+    ],
+    "correct_index": 1,
+    "explanation": "En sistemas complejos, las soluciones rápidas y de bajo esfuerzo cognitivo rara vez rompen los patrones que generan el problema, y más bien suelen reforzarlos."
+  },
+  {
+    "id": "q_law4_aplicacion",
+    "law_number": 4,
+    "question_type": "aplicacion",
+    "text": "Recurrir constantemente a horas extra para resolver retrasos en lugar de revisar los procesos de trabajo es un ejemplo de:",
+    "options": [
+      "La ilusión de hacerse cargo.",
+      "El apalancamiento.",
+      "El camino fácil lleva al mismo lugar.",
+      "No hay culpa."
+    ],
+    "correct_index": 2,
+    "explanation": "Recurrir a horas extra en lugar de revisar procesos es una solución rápida y familiar que ejemplifica que 'el camino fácil lleva al mismo lugar'."
+  },
+  {
+    "id": "q_law4_analisis",
+    "law_number": 4,
+    "question_type": "analisis",
+    "text": "Ante la tentación de tomar el 'camino fácil', ¿qué acción recomienda el pensamiento sistémico?",
+    "options": [
+      "Aplicar la solución más rápida disponible.",
+      "Dividir el problema a la mitad.",
+      "Tomar una pausa y reflexionar si se está resolviendo el problema o solo aliviándolo.",
+      "Buscar un enemigo externo a quien culpar."
+    ],
+    "correct_index": 2,
+    "explanation": "Debemos reflexionar, tomar una pausa y preguntarnos si efectivamente estamos resolviendo el problema o simplemente aliviándolo temporalmente."
+  },
+  {
+    "id": "q_law4_metafora",
+    "law_number": 4,
+    "question_type": "metafora",
+    "text": "¿Qué historia ilustra la trampa de buscar soluciones solo donde es más fácil o evidente?",
+    "options": [
+      "La carrera de la tortuga.",
+      "La rana hervida.",
+      "El caballo Boxer.",
+      "El borracho gateando bajo un farol callejero buscando sus llaves."
+    ],
+    "correct_index": 3,
+    "explanation": "Esta ley se ilustra con la historia sufi del borracho gateando bajo un farol callejero."
+  },
+  {
+    "id": "q_law5_concepto",
+    "law_number": 5,
+    "question_type": "concepto",
+    "text": "¿Qué ocurre en una organización cuando se aplican soluciones asistémicas que solo alivian los síntomas a corto plazo?",
+    "options": [
+      "El sistema alcanza su punto óptimo de apalancamiento.",
+      "Generan un círculo vicioso conocido como 'desplazamiento de la carga' donde se necesitan con más frecuencia.",
+      "Las partes del sistema se fragmentan.",
+      "Se eliminan los límites del crecimiento."
+    ],
+    "correct_index": 1,
+    "explanation": "Se genera un círculo vicioso en el cual, entre más aplicamos soluciones asistémicas, más las necesitamos, un fenómeno llamado 'Desplazamiento de la carga'."
+  },
+  {
+    "id": "q_law5_aplicacion",
+    "law_number": 5,
+    "question_type": "aplicacion",
+    "text": "Si una empresa tecnológica en Cochabamba contrata consultores externos cada vez que hay una crisis de software, en lugar de capacitar a sus propios ingenieros junior, ¿qué advertencia sistémica están ignorando?",
+    "options": [
+      "Dividir un elefante no genera dos pequeños.",
+      "El camino fácil lleva al mismo lugar.",
+      "La cura puede ser peor que la enfermedad.",
+      "No hay culpa."
+    ],
+    "correct_index": 2,
+    "explanation": "La intervención que no considera la estructura sistémica genera dependencia (adicción a los consultores), volviéndose el mayor problema del sistema y fortaleciendo la idea de que la cura puede ser peor que la enfermedad."
+  },
+  {
+    "id": "q_law5_analisis",
+    "law_number": 5,
+    "question_type": "analisis",
+    "text": "Antes de intervenir en un problema urgente, ¿qué recomienda el pensamiento sistémico para evitar que 'la cura sea peor'?",
+    "options": [
+      "Atacar el síntoma con la herramienta más rápida.",
+      "Mapear el sistema completo y anticipar los efectos de segundo y tercer orden.",
+      "Dividir el problema en departamentos aislados.",
+      "Culpar al mercado o a la competencia."
+    ],
+    "correct_index": 1,
+    "explanation": "Antes de intervenir, debemos mapear el sistema completo y anticipar los efectos de segundo y tercer orden para fortalecer la aptitud del sistema."
+  },
+  {
+    "id": "q_law5_metafora",
+    "law_number": 5,
+    "question_type": "metafora",
+    "text": "¿Qué hábito personal peligroso se usa como analogía para explicar la quinta ley sistémica?",
+    "options": [
+      "Consumir alcohol para aliviar la baja autoestima o el estrés laboral.",
+      "Dormir poco para trabajar más horas.",
+      "Buscar las llaves debajo de la luz del farol.",
+      "Trabajar con mayor empeño como el caballo Boxer."
+    ],
+    "correct_index": 0,
+    "explanation": "El consumo de alcohol para la baja autoestima o estrés laboral es un ejemplo de una cura (adictiva) que termina siendo peor que la enfermedad inicial."
+  },
+  {
+    "id": "q_law6_concepto",
+    "law_number": 6,
+    "question_type": "concepto",
+    "text": "¿Por qué la urgencia por actuar rápidamente suele ser la estrategia menos efectiva en sistemas complejos?",
+    "options": [
+      "Porque no hay suficientes recursos.",
+      "Porque las soluciones aceleradas tienden a ignorar la complejidad del sistema y generan retrocesos.",
+      "Porque los competidores actúan más rápido.",
+      "Porque destruye las propiedades emergentes."
+    ],
+    "correct_index": 1,
+    "explanation": "Las soluciones aceleradas tienden a ignorar la complejidad del sistema y, como consecuencia, generan retrocesos que alargan el proceso."
+  },
+  {
+    "id": "q_law6_aplicacion",
+    "law_number": 6,
+    "question_type": "aplicacion",
+    "text": "Una startup lanza su app con código desordenado para ganar la carrera al mercado. Pronto, los bugs hacen que añadir nuevas funciones tome el triple de tiempo. Esto ejemplifica que:",
+    "options": [
+      "Lo más rápido es lo más lento.",
+      "El enemigo externo es real.",
+      "Se pueden alcanzar metas contradictorias.",
+      "Los pequeños cambios producen grandes resultados."
+    ],
+    "correct_index": 0,
+    "explanation": "Actuar rápido genera una falsa sensación de control, pero pone en peligro la supervivencia a largo plazo; la velocidad aparente se convierte en lentitud real."
+  },
+  {
+    "id": "q_law6_analisis",
+    "law_number": 6,
+    "question_type": "analisis",
+    "text": "¿Qué diferencia existe entre la tasa de 'crecimiento óptimo' de un sistema y su 'crecimiento más rápido posible'?",
+    "options": [
+      "Son exactamente iguales en sistemas sanos.",
+      "El crecimiento óptimo suele ser más bajo que el crecimiento más rápido posible.",
+      "El crecimiento rápido no tiene consecuencias.",
+      "La tasa óptima ignora la realimentación compensadora."
+    ],
+    "correct_index": 1,
+    "explanation": "Los sistemas naturales y organizaciones tienen tasas de crecimiento óptimas que son más bajas que el crecimiento más rápido posible."
+  },
+  {
+    "id": "q_law6_metafora",
+    "law_number": 6,
+    "question_type": "metafora",
+    "text": "¿Qué metáfora ilustra mejor la ley 'Lo más rápido es lo más lento'?",
+    "options": [
+      "La rana hervida en la olla.",
+      "La tortuga en la carrera.",
+      "El elefante fragmentado.",
+      "El caballo de granja."
+    ],
+    "correct_index": 1,
+    "explanation": "La ley de que lo más rápido es lo más lento se ilustra con la historia de la tortuga en la carrera."
+  },
+  {
+    "id": "q_law7_concepto",
+    "law_number": 7,
+    "question_type": "concepto",
+    "text": "¿Cuál es el error más frecuente en la resolución de problemas según la séptima ley sistémica?",
+    "options": [
+      "No actuar con suficiente rapidez.",
+      "Tratar a los síntomas visibles como si fueran las causas reales.",
+      "Ignorar las metas contradictorias.",
+      "No presionar el sistema."
+    ],
+    "correct_index": 1,
+    "explanation": "Considerar que los síntomas son causas, en lugar de señales, es el error más frecuente en la resolución de problemas."
+  },
+  {
+    "id": "q_law7_aplicacion",
+    "law_number": 7,
+    "question_type": "aplicacion",
+    "text": "Si una universidad nota un alto nivel de deserción este semestre, la verdadera causa sistémica probablemente NO sea:",
+    "options": [
+      "Una política académica rígida implementada hace dos años.",
+      "El nivel académico con el que llegaron del colegio hace tres años.",
+      "Un examen difícil tomado la semana pasada.",
+      "Una reestructuración de la malla curricular antigua."
+    ],
+    "correct_index": 2,
+    "explanation": "La causa y el efecto no están próximos en el tiempo y el espacio; las verdaderas causas suelen estar ocultas en el pasado y no en eventos recientes."
+  },
+  {
+    "id": "q_law7_analisis",
+    "law_number": 7,
+    "question_type": "analisis",
+    "text": "¿Por qué las soluciones puramente intuitivas fallan al abordar problemas en sistemas complejos?",
+    "options": [
+      "Porque no usan suficiente tecnología.",
+      "Porque atacan el efecto visible cercano en lugar de la causa estructural lejana.",
+      "Porque las personas no se esfuerzan lo suficiente.",
+      "Porque dividen el elefante a la mitad."
+    ],
+    "correct_index": 1,
+    "explanation": "Las soluciones intuitivas fallan porque existe una desconexión espacio-temporal entre causa y efecto: atacamos el síntoma visible cercano en lugar de la causa estructural lejana."
+  },
+  {
+    "id": "q_law7_metafora",
+    "law_number": 7,
+    "question_type": "metafora",
+    "text": "¿Cómo debe interpretarse un problema evidente y cercano en el tiempo dentro de una organización?",
+    "options": [
+      "Como la causa raíz que debe ser extirpada.",
+      "Como el enemigo externo atacando.",
+      "Como una simple señal o síntoma de una estructura subyacente.",
+      "Como un punto de alto apalancamiento."
+    ],
+    "correct_index": 2,
+    "explanation": "Los síntomas evidentes deben ser considerados simplemente como señales, no como las verdaderas causas."
+  },
+  {
+    "id": "q_law8_concepto",
+    "law_number": 8,
+    "question_type": "concepto",
+    "text": "¿Qué principio afirma que los problemas grandes tienen lugares específicos donde una intervención dirigida puede generar un cambio duradero?",
+    "options": [
+      "El principio de división de sistemas.",
+      "La ilusión de hacerse cargo.",
+      "El principio del apalancamiento.",
+      "El desplazamiento de la carga."
+    ],
+    "correct_index": 2,
+    "explanation": "El principio del apalancamiento indica que existen puntos de apoyo donde una intervención pequeña y bien dirigida genera cambios grandes y duraderos."
+  },
+  {
+    "id": "q_law8_aplicacion",
+    "law_number": 8,
+    "question_type": "aplicacion",
+    "text": "Un equipo de desarrollo de software pasa horas resolviendo bugs diarios. En lugar de eso, invierten dos horas en crear pruebas automatizadas y los bugs caen un 90%. Esto representa:",
+    "options": [
+      "Una solución que divide al elefante.",
+      "Un pequeño cambio en un punto de apalancamiento con un gran resultado.",
+      "Una realimentación compensadora.",
+      "Una cura peor que la enfermedad."
+    ],
+    "correct_index": 1,
+    "explanation": "Representa que un cambio con mínimo esfuerzo lleva a una mejora significativa y duradera, característico de las zonas de mayor apalancamiento."
+  },
+  {
+    "id": "q_law8_analisis",
+    "law_number": 8,
+    "question_type": "analisis",
+    "text": "¿Dónde suelen encontrarse comúnmente las zonas de mayor apalancamiento dentro de un sistema organizativo?",
+    "options": [
+      "En los lugares más obvios y visibles.",
+      "En el aumento de personal y presupuesto.",
+      "En las reglas del sistema, flujos de información y paradigmas.",
+      "En el despido de gerentes."
+    ],
+    "correct_index": 2,
+    "explanation": "El punto de apoyo suele estar en lugares inesperados como las reglas del sistema, los flujos de información, los objetivos y los paradigmas."
+  },
+  {
+    "id": "q_law8_metafora",
+    "law_number": 8,
+    "question_type": "metafora",
+    "text": "¿Qué elemento físico de una nave se utiliza como metáfora clásica para explicar el punto de apalancamiento?",
+    "options": [
+      "El ancla principal.",
+      "El motor de propulsión.",
+      "El apéndice de orientación o 'timón del timón'.",
+      "La brújula del capitán."
+    ],
+    "correct_index": 2,
+    "explanation": "La metáfora utilizada para representar un punto de apalancamiento oculto es el 'apéndice de orientación' o el timón del timón."
+  },
+  {
+    "id": "q_law9_concepto",
+    "law_number": 9,
+    "question_type": "concepto",
+    "text": "¿Qué trampa mental propia del pensamiento lineal nos ayuda a superar la novena ley sistémica?",
+    "options": [
+      "La trampa de 'Esto o aquello' (elegir entre metas aparentemente incompatibles).",
+      "La trampa de la rana hervida.",
+      "El mito del equipo administrativo.",
+      "La fijación en los hechos."
+    ],
+    "correct_index": 0,
+    "explanation": "El pensamiento lineal cae en la trampa mental de 'Esto o aquello', la cual el pensamiento sistémico ayuda a superar para alcanzar metas aparentemente contradictorias."
+  },
+  {
+    "id": "q_law9_aplicacion",
+    "law_number": 9,
+    "question_type": "aplicacion",
+    "text": "Si te exigen que el nuevo sistema web de la universidad sea 'sumamente seguro' pero a la vez 'fácil de usar y sin fricción', ¿cómo debes proceder sistémicamente?",
+    "options": [
+      "Hacerlo muy seguro y sacrificar la facilidad de uso.",
+      "Oscilar un mes en seguridad y otro en facilidad.",
+      "Rediseñar el sistema para lograr ambos, rompiendo la creencia de que son excluyentes.",
+      "Culpar al cliente por pedir imposibles."
+    ],
+    "correct_index": 2,
+    "explanation": "No se debe elegir entre los polos, sino que se debe rediseñar el sistema para lograr ambos e identificar intervenciones estructurales que eliminen la tensión."
+  },
+  {
+    "id": "q_law9_analisis",
+    "law_number": 9,
+    "question_type": "analisis",
+    "text": "¿Cómo lograron empresas como Toyota o Google alcanzar simultáneamente metas que parecían excluirse mutuamente?",
+    "options": [
+      "Comprendiendo la estructura subyacente e interviniendo en el diseño del sistema y metodologías.",
+      "Ignorando los bucles de retroalimentación.",
+      "Presionando a sus trabajadores más duro.",
+      "Aplicando soluciones de bajo esfuerzo cognitivo."
+    ],
+    "correct_index": 0,
+    "explanation": "Alcanzaron ambas metas cuando comprendieron la estructura que genera la tensión y rediseñaron el sistema, como el sistema de producción lean en Toyota."
+  },
+  {
+    "id": "q_law9_metafora",
+    "law_number": 9,
+    "question_type": "metafora",
+    "text": "Bajo la óptica sistémica, la expresión 'no puedes tener el pastel y comértelo también' es:",
+    "options": [
+      "Una verdad universal innegable.",
+      "Un principio de apalancamiento.",
+      "Una paradoja que se resuelve rediseñando el paradigma hacia 'Esto y aquello'.",
+      "Una prueba del enemigo externo."
+    ],
+    "correct_index": 2,
+    "explanation": "El pensamiento sistémico permite revisar los paradigmas y superar la contradicción pasando del 'Esto o aquello' hacia el diseño de 'Esto y aquello'."
+  },
+  {
+    "id": "q_law10_concepto",
+    "law_number": 10,
+    "question_type": "concepto",
+    "text": "¿Dónde residen las 'propiedades emergentes' de un sistema complejo, como su cultura o adaptabilidad?",
+    "options": [
+      "En el gerente general.",
+      "En las partes individuales más eficientes.",
+      "En las relaciones y conexiones entre las partes.",
+      "En las causas externas."
+    ],
+    "correct_index": 2,
+    "explanation": "Las propiedades emergentes de un sistema no residen en ninguna parte individual, sino en las relaciones entre las partes."
+  },
+  {
+    "id": "q_law10_aplicacion",
+    "law_number": 10,
+    "question_type": "aplicacion",
+    "text": "El equipo de marketing duplica sus leads optimizando su área, pero producción no tiene capacidad y colapsa la entrega a los clientes. ¿Qué principio se violó?",
+    "options": [
+      "Dividir un elefante por la mitad no genera dos elefantes pequeños (sub-optimización local).",
+      "La ilusión de que se aprende con la experiencia.",
+      "La causa y el efecto están próximos.",
+      "No hay culpa."
+    ],
+    "correct_index": 0,
+    "explanation": "Optimizar cada departamento por separado no garantiza la optimización del conjunto, ya que la optimización local frecuentemente sub-optimiza el sistema global."
+  },
+  {
+    "id": "q_law10_analisis",
+    "law_number": 10,
+    "question_type": "analisis",
+    "text": "¿Por qué permitir que varios maestros de ajedrez hagan un movimiento en una misma partida no mejora las posibilidades de ganar?",
+    "options": [
+      "Porque los jugadores se pelearán entre sí.",
+      "Porque se pierde la posibilidad de apalancar, diluyendo el punto de palanca en partes fragmentadas.",
+      "Porque el ajedrez no es un sistema complejo.",
+      "Porque genera desplazamiento de la carga."
+    ],
+    "correct_index": 1,
+    "explanation": "No mejora la posibilidad de solucionarlo porque al fragmentarlo se pierde la posibilidad de apalancar, pues el punto de palanca queda diluido."
+  },
+  {
+    "id": "q_law10_metafora",
+    "law_number": 10,
+    "question_type": "metafora",
+    "text": "En la metáfora del elefante dividido por la mitad, ¿qué representamos cuando cortamos al animal?",
+    "options": [
+      "La destrucción de las relaciones e interacciones que lo hacen ser un elefante vivo y funcional.",
+      "La creación de equipos de alto rendimiento.",
+      "La separación de responsabilidades gerenciales.",
+      "La búsqueda del enemigo externo."
+    ],
+    "correct_index": 0,
+    "explanation": "Al fragmentar el elefante, destruimos precisamente esas relaciones que lo hacen ser un elefante."
+  },
+  {
+    "id": "q_law11_concepto",
+    "law_number": 11,
+    "question_type": "concepto",
+    "text": "¿Cuál es la premisa fundamental de la ley 'No hay culpa'?",
+    "options": [
+      "Que el gobierno siempre tiene la razón.",
+      "Que en un sistema no existe el 'afuera'; todos los actores contribuyen a generar los resultados.",
+      "Que los errores deben ser ignorados para mantener la moral.",
+      "Que el equipo administrativo es infalible."
+    ],
+    "correct_index": 1,
+    "explanation": "En un sistema, no existe 'afuera'; todos los actores son parte del sistema y contribuyen a generar los resultados que observamos."
+  },
+  {
+    "id": "q_law11_aplicacion",
+    "law_number": 11,
+    "question_type": "aplicacion",
+    "text": "Si un equipo profesional pierde una final de Brawl Stars y los jugadores justifican la derrota diciendo que el formato del torneo fue injusto, están:",
+    "options": [
+      "Aplicando el principio del apalancamiento.",
+      "Asumiendo su responsabilidad sistémica.",
+      "Buscando un culpable externo, un ejercicio que es sistémicamente inútil.",
+      "Resolviendo el problema a largo plazo."
+    ],
+    "correct_index": 2,
+    "explanation": "Buscar culpables en lugar de mirar el conjunto es un ejercicio psicológicamente satisfactorio pero sistémicamente inútil."
+  },
+  {
+    "id": "q_law11_analisis",
+    "law_number": 11,
+    "question_type": "analisis",
+    "text": "De acuerdo con el pensamiento sistémico, si el 'enemigo' es parte del mismo sistema, ¿dónde radica la cura para los problemas que enfrentamos?",
+    "options": [
+      "En destruir al enemigo externo.",
+      "En aislar nuestra área del resto de la empresa.",
+      "En la relación con nuestro enemigo y en asumir nuestra responsabilidad.",
+      "En presionar al sistema con más fuerza."
+    ],
+    "correct_index": 2,
+    "explanation": "La cura radica en la relación con nuestro enemigo y en que debemos asumir nuestra propia responsabilidad."
+  },
+  {
+    "id": "q_law11_metafora",
+    "law_number": 11,
+    "question_type": "metafora",
+    "text": "¿Qué diagrama visual resume conceptualmente la última ley del pensamiento sistémico?",
+    "options": [
+      "Una línea recta del problema a la solución.",
+      "Un gran óvalo que encierra tanto a 'Nosotros' como a las 'Causas de los problemas' dentro del 'Sistema'.",
+      "Un gráfico de barras decreciente.",
+      "Un reloj de arena."
+    ],
+    "correct_index": 1,
+    "explanation": "El diagrama muestra un óvalo etiquetado como 'Sistema' que engloba conjuntamente a 'Nosotros' y a las 'Causas de los problemas', sin dejar nada afuera."
+  }
+]
